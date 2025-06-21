@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "sensor_readings": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      ".indexOn": ["timestamp", "entry_id"]
+    }
+  }
+}
