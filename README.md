@@ -74,7 +74,7 @@ yarn dev
 npm run dev
 ```
 
-Visit [https://aquesensetechnologies.vercel.app/](AquesenseTechnologies)to view the app.
+Visit https://aquesensetechnologies.vercel.app/ to view the app.
 
 ---
 
