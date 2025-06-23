@@ -210,8 +210,4 @@ Developed and maintained by **Judas Sithole**.
 
 This project is for educational and demonstration purposes. For commercial or production use, please contact the author.
 
----
-
-## Links
-- [Live Demo](https://vercel.com/developingcourses6501s-projects/v0-version17finaldashboard)
 >>>>>>> f5003e506cece76e7c40e8a55d13eb97436dbb98
